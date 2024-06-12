@@ -1,0 +1,1 @@
+const myAge = 44;
